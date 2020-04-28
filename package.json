@@ -1,0 +1,22 @@
+{
+  "name": "docsify-beian",
+  "version": "1.0.1",
+  "description": "Chinese beian plugin for docsify",
+  "main": "./dist/beian.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HerbertHe/docsify-beian.git"
+  },
+  "keywords": [
+    "beian",
+    "docsify",
+    "chinese"
+  ],
+  "bugs": {
+    "url": "https://github.com/HerbertHe/docsify-beian/issues"
+  },
+  "homepage": "https://github.com/HerbertHe/docsify-beian",
+  "author": "HerbertHe <Herbert.He0229@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
