@@ -1,2 +1,2 @@
 # docsify-beian
-docsify之中国特色社会主义备案插件
+docsify之备案插件
