@@ -20,6 +20,7 @@ function plugin(hook, vm) {
                     defaultOptions.ICP
                 }</a>
                 ${
+                    defaultOptions.NISMSP &&
                     defaultOptions.NISMSP.number.length !== 0 &&
                     defaultOptions.NISMSP.url.length !== 0
                         ? `
