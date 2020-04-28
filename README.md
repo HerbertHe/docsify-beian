@@ -15,7 +15,7 @@ docsify之备案插件 docsify plugin for Chinese Beian
 添加依赖 Add script
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/docsify-beian@latest/beian.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/docsify-beian@latest/dist/beian.js"></script>
 ```
 
 添加配置 Add settings

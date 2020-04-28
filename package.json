@@ -1,6 +1,6 @@
 {
   "name": "docsify-beian",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Chinese beian plugin for docsify",
   "main": "./dist/beian.js",
   "repository": {
