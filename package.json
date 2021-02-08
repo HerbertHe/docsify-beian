@@ -1,10 +1,10 @@
 {
   "name": "docsify-beian",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Chinese beian plugin for docsify",
   "main": "./dist/beian.js",
   "scripts": {
-    "build": "uglifyjs ./dist/beian.js -c -m -o ./dist/beian.min.js"
+    "build": "terser ./dist/beian.js -o ./dist/beian.min.js"
   },
   "repository": {
     "type": "git",

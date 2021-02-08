@@ -10,13 +10,13 @@ var defaultOptions = {
 // Docsify plugin functions
 function plugin(hook, vm) {
     hook.afterEach(function (html, next) {
-        //add html string
+        // add html string
         next(
             html +
                 `
             <hr>
             <footer class="beian" style="text-align: center;">
-                <a style="text-decoration: none; color: #34495e; font-size: 15px; font-weight: 400;" href="http://www.beian.miit.gov.cn/" target="_blank">${
+                <a style="text-decoration: none; color: #34495e; font-size: 15px; font-weight: 400;" href="https://beian.miit.gov.cn/#/Integrated/recordQuery" target="_blank">${
                     defaultOptions.ICP
                 }</a>
                 ${

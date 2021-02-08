@@ -38,3 +38,5 @@ window.$docsify = {
 | NISMSP | 全国互联网安全管理服务平台备案（公安部备案） | {} |
 | number | 公安部备案备案号（没有留空）| "" |
 | url | 公安部备案链接（没有留空）| "" |
+
+> 现在公安部备案url的格式为 `http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=` 加上你的备案号的数字部分
